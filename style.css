@@ -1,0 +1,36 @@
+header {
+    background-image: linear-gradient(#9B72CF, #2F184B);
+    height: 30em;
+    width: 100vw;
+}
+
+#sobre-mim {
+   background-color: #F4EFFA;
+   padding: 7em;
+} 
+
+
+#ferramentas {
+    background-color: #F4EFFA;
+    padding: 5em;
+}
+
+.iconFerramentas {
+    height: 6em;
+    width: 5em;
+    margin: 0 2em;
+}
+
+#projetos {
+    background-color: #2F184B;
+    padding: 7em;
+}
+
+#rodape {
+    padding: 0.5em;
+}
+
+p {
+    margin-bottom: 0;
+}
+ 
